@@ -7,11 +7,11 @@ Banking loan, credit &amp; debit KPI dashboard
 
 #### Credit & Debit Dashboard
 
-![Excel Credit Debit](Images/Excel/excel_credit_debit.png)
+![Excel Credit Debit](Images/excel_credit_debit.png)
 
 #### Loan Dashboard
 
-![Excel Loan](Images/Excel/excel_loan.png)
+![Excel Loan](Images/excel_loan.png)
 
 ---
 
@@ -19,11 +19,11 @@ Banking loan, credit &amp; debit KPI dashboard
 
 #### Credit & Debit Dashboard
 
-![Power BI Credit Debit](Images/PowerBI/powerbi_credit_debit.png)
+![Power BI Credit Debit](Images/powerbi_credit_debit.png)
 
 #### Loan Dashboard
 
-![Power BI Loan](Images/PowerBI/powerbi_loan.png)
+![Power BI Loan](Images/powerbi_loan.png)
 
 ---
 
@@ -31,12 +31,12 @@ Banking loan, credit &amp; debit KPI dashboard
 
 #### Credit & Debit Dashboard
 
-![Tableau Credit Debit](Images/Tableau/tableau_credit_debit.png)
+![Tableau Credit Debit](Images/tableau_credit_debit.png)
 
 #### Loan Dashboard 1
 
-![Tableau Loan 1](Images/Tableau/tableau_loan1.png)
+![Tableau Loan 1](Images/tableau_loan1.png)
 
 #### Loan Dashboard 2
 
-![Tableau Loan 2](Images/Tableau/tableau_loan2.png)
+![Tableau Loan 2](Images/tableau_loan2.png)
