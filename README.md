@@ -85,16 +85,15 @@ The SQL file includes:
 Due to GitHub file size limits, full dashboard files are hosted externally:
 
 * 🔗 Power BI Files:
-      https://drive.google.com/file/d/1kV1WH9C_lMfPklVCeM0grTOrhdFg5PGq/view?usp=drivesdk
-      https://drive.google.com/file/d/1VLbmpl3RISwhqizy3WmuzclHM4_Jer3k/view?usp=drivesdk
+     [View Here](https://drive.google.com/file/d/1VLbmpl3RISwhqizy3WmuzclHM4_Jer3k)
+     [View Here](https://drive.google.com/file/d/1lbIeOX_risRDtNsgJkF8_lcB921Xvdgk)
 * 🔗 Tableau Files:
-      https://drive.google.com/file/d/1c7fCprBe_rNouAiNA-_o-GMAeCG1SCm3/view?usp=drivesdk
-      https://drive.google.com/file/d/1lbIeOX_risRDtNsgJkF8_lcB921Xvdgk/view?usp=drivesdk
-* 🔗 Excel Dashboard:
-      https://docs.google.com/spreadsheets/d/14DHtRaF8iyhGKe_XQXUGh-A-9gEHzydu/edit?usp=drivesdk&ouid=116044505548148110088&rtpof=true&sd=true
-      https://docs.google.com/spreadsheets/d/1pXVQZyOtgQv_ktgOXdrs2CSDKxRqNOVq/edit?usp=drivesdk&ouid=116044505548148110088&rtpof=true&sd=true
-
----
+     [View Here](https://drive.google.com/file/d/1c7fCprBe_rNouAiNA-_o-GMAeCG1SCm3)
+     [View Here](https://drive.google.com/file/d/1kV1WH9C_lMfPklVCeM0grTOrhdFg5PGq)
+* 🔗 Excel Files:
+     [View Here](https://docs.google.com/spreadsheets/d/14DHtRaF8iyhGKe_XQXUGh-A-9gEHzydu)
+     [View Here](https://docs.google.com/spreadsheets/d/1pXVQZyOtgQv_ktgOXdrs2CSDKxRqNOVq)
+  
 
 ## 🚀 Conclusion
 
